@@ -10,6 +10,7 @@ import PreviousWork from './PreviousWork';
 import Testimonials from './Testimonials';
 import PreviousWorkExpanded from './PreviousWorkExpanded';
 import ContactUs from './ContactUs';
+import ModernTech from './ModernTech';
 
 export {
 	Hero,
@@ -24,4 +25,5 @@ export {
 	Testimonials,
 	PreviousWorkExpanded,
 	ContactUs,
+	ModernTech,
 };

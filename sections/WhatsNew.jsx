@@ -24,7 +24,7 @@ const WhatsNew = () => (
 					title='| How do you develop apps?'
 					textStyles='text-center'
 				/>
-				<TitleText title={<>Development Porcess</>} textStyles='text-center' />
+				<TitleText title={<>Development Process</>} textStyles='text-center' />
 			</motion.div>
 			<div className='flex flex-col justify-center '>
 				<div className='w-full px-4 mx-auto lg:max-w-5xl '>
