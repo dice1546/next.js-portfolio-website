@@ -21,8 +21,7 @@ const Hero = () => (
 					variants={textVariant(1.2)}
 					className='flex flex-row justify-center items-center'
 				>
-					<h1 className={styles.heroHeading}>Rea</h1>
-					<h1 className={styles.heroHeading}>lity</h1>
+					<h1 className={styles.heroHeading}>Reality</h1>
 				</motion.dev>
 			</div>
 			<motion.div
@@ -38,7 +37,7 @@ const Hero = () => (
 					src='/cover.png'
 					alt='cover'
 					className='w-full sm:h-[600px] 
-            h-[350px] object-cover 
+            h-[250px] object-cover
             rounded-tl-[140px] z-10 relative'
 				/>
 				<Link href='/contact'>
