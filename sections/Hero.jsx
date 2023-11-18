@@ -17,12 +17,12 @@ const Hero = () => (
 				<motion.h1 variants={textVariant(1.1)} className={styles.heroHeading}>
 					Turn Ideas into
 				</motion.h1>
-				<motion.dev
+				<motion.div
 					variants={textVariant(1.2)}
 					className='flex flex-row justify-center items-center'
 				>
 					<h1 className={styles.heroHeading}>Reality</h1>
-				</motion.dev>
+				</motion.div>
 			</div>
 			<motion.div
 				variants={slideIn('right', 'tween', 0.2, 1)}

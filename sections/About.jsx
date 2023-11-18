@@ -20,7 +20,7 @@ const About = () => (
 
 			<motion.p
 				variants={fadeIn('up', 'tween', 0.2, 1)}
-				className='mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white'
+				className='mt-[8px] z-10 font-normal sm:text-[32px] text-[20px] text-center text-secondary-white'
 			>
 				<span className='font-extrabold text-white'>Welcome</span> to my
 				portfolio website. I am{' '}

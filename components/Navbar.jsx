@@ -34,21 +34,21 @@ const Navbar = () => {
 				>
 					<Link
 						href='/'
-						className='font-poppins font-medium cursor-pointer sm:text-[15px] text-[20px] lg:text-[23px] px-5 py-2 rounded-lg text-white transition-colors hover:text-black duration-300 hover:bg-gradient-to-r from-red-500 to-yellow-500'
+						className='font-poppins font-medium cursor-pointer sm:text-[15px] text-[20px] lg:text-[23px] px-5 py-2 rounded-lg text-black transition-colors hover:text-black duration-300 hover:bg-gradient-to-r from-red-500 to-yellow-500'
 					>
 						Home
 					</Link>
 					<Link
 						href='/projects'
-						className='font-poppins font-medium cursor-pointer sm:text-[15px] text-[20px] lg:text-[23px] px-5 py-2 rounded-lg text-white transition-colors hover:text-black duration-300 hover:bg-gradient-to-r from-red-500 to-yellow-500'
+						className='font-poppins font-medium cursor-pointer sm:text-[15px] text-[20px] lg:text-[23px] px-5 py-2 rounded-lg text-black transition-colors hover:text-black duration-300 hover:bg-gradient-to-r from-red-500 to-yellow-500'
 					>
 						Projects
 					</Link>
 					<Link
 						href='/contact'
-						className='font-poppins font-medium cursor-pointer sm:text-[15px] text-[20px] lg:text-[23px] px-5 py-2 rounded-lg text-white transition-colors hover:text-black duration-300 hover:bg-gradient-to-r from-red-500 to-yellow-500'
+						className='font-poppins font-medium cursor-pointer sm:text-[15px] text-[20px] lg:text-[23px] px-5 py-2 rounded-lg text-black transition-colors hover:text-black duration-300 hover:bg-gradient-to-r from-red-500 to-yellow-500'
 					>
-						Contact
+						Contact Us
 					</Link>
 				</motion.ul>
 				<div className='sm:hidden flex flex-1 justify-end items-center'>
