@@ -1,14 +1,16 @@
 import { initializeApp } from 'firebase/app';
 import { getFirestore } from 'firebase/firestore';
 
+// Here you have to add your firebase details
+
 const firebaseConfig = {
-	apiKey: 'AIzaSyADvBae0ExySjb5_TD7h61a5IN5rTDM2qs',
-	authDomain: 'daniyaldev1546.firebaseapp.com',
-	projectId: 'daniyaldev1546',
-	storageBucket: 'daniyaldev1546.appspot.com',
-	messagingSenderId: '744831935332',
-	appId: '1:744831935332:web:02cd7b0c03ef18f45f1071',
-	measurementId: 'G-DEQD5RYRBK',
+	apiKey: '',
+	authDomain: '',
+	projectId: '',
+	storageBucket: '',
+	messagingSenderId: '',
+	appId: '',
+	measurementId: '',
 };
 
 // Initialize Firebase
