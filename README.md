@@ -4,11 +4,13 @@ If you want to try it for yourself, copy the repository on your device, and then
 
 Follow the following commands
 
-For installing the packages.
-1 - npm run i
+```bash
+# For installing the packages
+npm run i
 
-For running the development server.
-2 - npm run dev 
+# For running the development server
+npm run dev
 
-For building the project build
-3 - npm run build
+# For buildng your project
+npm run build
+```
